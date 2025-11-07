@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Durgesh Tiwari<br>A passionate full stack web developer from India<br>🔭 I’m currently working on Fit Rahooo<br><br>🌱 I’m currently learning Go, Flask<br><br>👨‍💻 All of my projects are available at https://portfolio2-steel-ten.vercel.app/<br><br>💬 Ask me about react.js, next.js, node.js, three.js<br><br>📫 How to reach me twdurgesh2005@gmail.com<br><br>⚡ Fun fact I think I am funny<br><br>Connect with me:<br><br>Languages and Tools:<br>appwrite aws bootstrap cplusplus css3 docker express figma firebase git html5 javascript kubernetes linux mongodb mysql nextjs nodejs postgresql python react typescript zapier<br><br>
+Hi 👋, I'm Durgesh Tiwari<br>A passionate full stack web developer from India<br>🔭 I’m currently working on Fit Rahooo<br><br>🌱 I’m currently learning Go, Flask<br><br>👨‍💻 All of my projects are available at https://portfolio2-steel-ten.vercel.app/<br><br>💬 Ask me about react.js, next.js, node.js, three.js<br><br>📫 How to reach me twdurgesh2005@gmail.com<br><br>⚡ Fun fact I think I am funny<br><br>Languages and Tools:<br>appwrite aws bootstrap cplusplus css3 docker express figma firebase git html5 javascript kubernetes linux mongodb mysql nextjs nodejs postgresql python react typescript zapier<br><br>
 
 
 ## 🌐 Socials:
